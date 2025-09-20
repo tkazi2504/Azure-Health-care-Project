@@ -1,0 +1,9 @@
+{
+	"name": "tk-adf-health-proj",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7ee7b29-940f-40e3-9f03-4f650b4d24a5",
+		"tenantId": "dd19ba0d-786e-4aef-8bb3-c21503f6ec36"
+	}
+}
